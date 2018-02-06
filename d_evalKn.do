@@ -3,7 +3,7 @@ clear
 set more off;
 
 global root "D:\Dropbox\DropboxQFPD";
-*global root "C:\Users\Cris Barnard\Dropbox\DropboxQFPD";
+
 global kn "pTasks\analysis\evalImpacto\conocimiento";
 local processed "$root\\$kn\processed";
 local graphs "$root\\$kn\report\graphs";
