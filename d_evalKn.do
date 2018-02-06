@@ -10,8 +10,6 @@ local graphs "$root\\$kn\report\graphs";
 local tables "$root\\$kn\report\tables";
 local pContacts "$root\pProcessed\rapidpro\contacts";
 
-stgit, git_dir("D:\Dropbox\DropboxQFPD\pTasks\analysis\evalImpacto\conocimiento\do\test-kn");
-dtanotes, creator("evalKn");
 cd "`processed'";
 
 *Test git: is it working? test2;
