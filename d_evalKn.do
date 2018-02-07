@@ -1,4 +1,4 @@
-clear
+﻿clear
 #delimit;
 set more off;
 
@@ -12,7 +12,7 @@ local pContacts "$root\pProcessed\rapidpro\contacts";
 
 cd "`processed'";
 
-*Test git: is it working? test2;
+*Prueba de Git ;
 use p_testKn, clear;
 
 drop if recibio==0;
